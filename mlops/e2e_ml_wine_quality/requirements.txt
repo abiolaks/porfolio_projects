@@ -1,0 +1,13 @@
+pandas
+notebook
+matplotlib
+python-box
+pyYAML
+scikit-learn
+ensure
+joblib
+types-pyYAML
+Flask
+flask-cors
+setuptools
+-e .
