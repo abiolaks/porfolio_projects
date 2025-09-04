@@ -28,6 +28,7 @@ list_of_files = [
     f"src/{PROJECT_NAME}/entity/__init__.py",
     f"src/{PROJECT_NAME}/entity/config_entity.py",
     f"src/{PROJECT_NAME}/constant/__init__.py",
+    f"src/{PROJECT_NAME}/logging/__init__.py",
     "config/config.yaml",
     "params.yaml",
     "schema.yaml",

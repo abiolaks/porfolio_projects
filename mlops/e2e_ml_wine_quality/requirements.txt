@@ -1,7 +1,10 @@
 pandas
-notebook
+ipykernel
 matplotlib
 python-box
+xgboost
+dvc
+nltk
 pyYAML
 scikit-learn
 ensure
